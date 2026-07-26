@@ -9,8 +9,8 @@ API_HASH = getenv("API_HASH", "064380868de75194d91be77d7d439353")
 BOT_TOKEN = getenv("BOT_TOKEN", None)
 OWNER_ID = int(getenv("OWNER_ID",8331984102))
 MONGO_URL = getenv("MONGO_URL", None)
-SUPPORT_GRP = getenv("SUPPORT_GRP", "+1WUvpET0pRI5NDJh")
-UPDATE_CHNL = getenv("UPDATE_CHNL", "music_Bot_Adda")
+SUPPORT_GRP = getenv("SUPPORT_GRP", "DivyaXChat")
+UPDATE_CHNL = getenv("UPDATE_CHNL", "DivyaXNetwork")
 OWNER_USERNAME = getenv("OWNER_USERNAME", "I_RAMBHAKT_I")
 
 
